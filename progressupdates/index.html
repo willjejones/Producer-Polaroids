@@ -1,10 +1,11 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Progress Updates
+type: progressupdates
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.categories.progressupdates %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">

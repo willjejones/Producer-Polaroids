@@ -1,12 +1,25 @@
-# Site settings
-title: Project Log
-email: william.jones@durham.ac.uk
-description: > # this means to ignore newlines until "baseurl:"
-  Will Jones' Project Log for his final year Computer Science project.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  willjejones
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Build settings
-markdown: kramdown
+permalink: /:categories/:title/
+relative_permalinks: true
+
+# Setup
+title:            Project Log
+tagline:          ''
+description:      'Electronic, blog-style project log for my final year Computer Science project.'
+url:              http://willjejones.github.io
+baseurl:          /
+
+author:
+  name:           'Will Jones'
+  url:            https://github.com/willjejones
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/willjejones/final-year-project

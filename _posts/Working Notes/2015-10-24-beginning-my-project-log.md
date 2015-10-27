@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Beginning my Project Log"
+date:   2015-10-24 17:28:02
+categories: workingnotes
+---
+
 Between now and the completion of my final year project, I will be using this blog format as a project log that I will update with:
 
 * Weekly supervisor meeting notes

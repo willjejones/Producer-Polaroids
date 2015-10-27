@@ -1,10 +1,11 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Meeting Notes
+type: meetingnotes
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.categories.meetingnotes %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
