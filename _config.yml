@@ -9,7 +9,7 @@ relative_permalinks: true
 title:            Project Log
 tagline:          ''
 description:      'Electronic, blog-style project log for my final year Computer Science project.'
-url:              
+url:              http://willjejones.github.io
 baseurl:          /
 
 author:
