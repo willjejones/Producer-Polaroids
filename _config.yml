@@ -3,7 +3,6 @@ markdown:         redcarpet
 highlighter:      pygments
 
 permalink: /:categories/:title/
-relative_permalinks: true
 
 # Setup
 title:            Project Log
