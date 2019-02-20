@@ -14,13 +14,7 @@ author:
   name:           'Will Jones'
   url:            https://github.com/willjejones
 
-pagination:
-  enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 10
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 5
 
 # Custom vars
 version:          0.1.0
@@ -32,4 +26,4 @@ github:
 google_analytics: UA-134868497-1
 
 # Gems
-plugins: [jekyll-paginate-v2]
+plugins: [jekyll-paginate]
