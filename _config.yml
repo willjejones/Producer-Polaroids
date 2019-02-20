@@ -7,8 +7,8 @@ permalink: /:categories/:title/
 # Setup
 title:            Producer Polaroids
 tagline:          ''
-description:      'Electronic, blog-style project log for my final year Computer Science project.'
-url:              https://producerpolaroids.com
+description:      'Home of my producer polaroids - new track every Monday'
+url:              producerpolaroids.com
 baseurl:          /
 
 author:
