@@ -28,5 +28,8 @@ version:          0.1.0
 github:
   repo:           https://github.com/willjejones/final-year-project
 
+# Google Analytics
+google_analytics: UA-134868497-1
+
 # Gems
 plugins: [jekyll-paginate-v2]
