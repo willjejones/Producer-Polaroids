@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      rouge
 
 permalink: /:categories/:title/
@@ -18,7 +17,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.1
+version:          0.1.0
 
 github:
   repo:           https://github.com/willjejones/final-year-project
