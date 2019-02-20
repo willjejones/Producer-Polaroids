@@ -14,10 +14,19 @@ author:
   name:           'Will Jones'
   url:            https://github.com/willjejones
 
-paginate:         5
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  sort_field: 'date'
+  sort_reverse: true
 
 # Custom vars
 version:          0.1.0
 
 github:
   repo:           https://github.com/willjejones/final-year-project
+
+# Gems
+plugins: [jekyll-paginate-v2]
