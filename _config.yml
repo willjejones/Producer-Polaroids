@@ -1,14 +1,14 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 permalink: /:categories/:title/
 
 # Setup
-title:            Project Log
+title:            Producer Polaroids
 tagline:          ''
 description:      'Electronic, blog-style project log for my final year Computer Science project.'
-url:              http://willjejones.github.io
+url:              https://producerpolaroids.com
 baseurl:          /
 
 author:
