@@ -8,7 +8,7 @@ permalink: /:categories/:title/
 title:            Producer Polaroids
 tagline:          ''
 description:      'Home of my producer polaroids - new track every Monday'
-url:              http://producerpolaroids.com
+url:              https://producerpolaroids.com
 baseurl:          /
 
 author:
