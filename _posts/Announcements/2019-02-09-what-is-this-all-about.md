@@ -1,17 +1,21 @@
 ---
 layout: post
 title:  "What is this all about?"
-date:   2019-02-09 19:30:45
+date:   2019-03-10 19:30:45
 categories: announcements
+excerpt_separator: <!--more-->
 ---
 
-## Goal: Create, document and release 1 track a week for the next 42 weeks.
+## Goal
+Create, document and release 1 track a week for the next 42 weeks.
+
 ## Why am I doing this?
 
 I’ve wanted to release a (fairly amateur and hobbyist) EP/LP for the last 5 years or so, and over that time I have created over 100 track ideas but never once felt they were finished and therefore ready to share with the world.
 
 So really, the sole objective of this project is to defeat the perfectionist within me. I have a real issue with finishing work that isn’t the highest quality output that I *think* I can produce. I finish very little and release even less. I think spending an afternoon/evening on a track and just releasing the idea and letting go will help in combatting my issues. Plus, I think the project will help me to:
 
+<!--more-->
 
 - Explore a broad range of genres, both instrumental and vocal tracks. I’m hoping as a side product of this that I have a much better understanding of what my strengths/weaknesses are and help shape and inspire the sound for a first release.
 - Force myself to approach creativity from new angles - using new sounds, production tools and instruments.
@@ -36,7 +40,6 @@ In short, anything. There will be no fixed rule in how I approach creating and p
 - could be inspired by a sound I’ve been listening to recently, a new instrument I’m playing with, or even a picture/animation/film that I would like to create a ‘soundtrack’ for.
 - won’t really be mastered or have any real professional grade production, but enough hopefully to make it listenable!
 - may feature some friends if any are interested in collaborating
-
 
 ## Why 42 weeks?
 
