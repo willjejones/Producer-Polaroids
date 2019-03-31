@@ -12,4 +12,5 @@ The goal this week was to create something electronic that blended atmospheric s
 
 <!--more-->
 
-In essence this track is: a firm beat that's sidechained against some dark sounding synths, with some ethereal sounds (vocal chops, drones) spruced up with reverb to float above it all. I also experienced with some strings in the 'B' section to build tension and create the cinematic feel that I was after. If I had more time, I probably would have ended the piece with a final climactic 'C' section, but limited time meant I wrapped it up with the original opening sound. When this project is over, I'll definitely come back and explore some of these ideas a little further!
+
+In essence this track is: a firm beat that's sidechained against some dark sounding synths, with some ethereal sounds (vocal chops, drones) spruced up with reverb to float above it all. I also experimented with some strings in the 'B' section to build tension and create the cinematic feel that I was after. If I had more time, I probably would have ended the piece with a final climactic 'C' section, but limited time meant I wrapped it up with the original opening sound. When this project is over, I'll definitely come back and explore some of these ideas a little further!

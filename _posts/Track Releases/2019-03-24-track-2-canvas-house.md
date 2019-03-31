@@ -6,7 +6,7 @@ categories: trackreleases
 excerpt_separator: <!--more-->
 ---
 
-This track definitely a little way from the music I usually make, but that is one of the goals of this project - pushing myself to try new sounds. 
+This track is definitely a little way from the music I usually make, but that is one of the goals of this project - pushing myself to try new sounds. 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/595254039&color=%23787272&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
