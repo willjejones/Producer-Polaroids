@@ -5,7 +5,11 @@
 
   <body>
 
+    {% if page.sidebar == true %}
     {% include sidebar.html %}
+    {% elsif page.sidebar == null  %}
+    {% include sidebar.html %}
+    {% endif %}
 
     <div class="content container">
       {{ content }}

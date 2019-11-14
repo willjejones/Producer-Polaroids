@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 # Setup
 title:            Producer Polaroids
 tagline:          ''
-description:      'Will Jones • New tracks every Sunday night'
+description:      'A place to store the snapshots of my personal creative projects.'
 url:              https://producerpolaroids.com
 baseurl:          /
 
@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 paginate: 5
 
 # Custom vars
-version:          0.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/willjejones/final-year-project

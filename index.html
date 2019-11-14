@@ -6,13 +6,33 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+      <div class="post-title-container post-title">
+        <span>
+          <h1 class="post-title post-icon">
+              <a href="{{ post.url }}">
+                  {{ post.title }}
+              </a>
+          </h1>
+        </span>
+        {% for category in post.categories %}
+            <a href="/{{ category | slugize }}/">
+                <img class="post-icon" src="{{ site.url }}/public/assets/icons/{{ category }}.svg"></img>
+            </a>
+        {% endfor %}
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    </div>
+
+    <span class="post-date">{{ post.date | date_to_string }}
+        <!-- {% assign total = 0 %}
+        {% for category in post.categories %}
+            <a href="/{{ category | slugize }}/">
+                {% if total > 0 %}|
+                {% endif %}
+              {{ category }}
+              {% assign total = total | plus: 1 %}
+            </a>
+        {% endfor %} -->
+    </span>
 
     {{ post.excerpt }}
     {% if post.excerpt != post.content %}

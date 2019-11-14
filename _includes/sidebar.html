@@ -1,7 +1,10 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container sidebar-sticky" style="top: 1rem!important;">
+    <div>
+        <img class="sidebar-image" src="{{ site.url }}/public/assets/will_cartoon.png" alt="Will's Face">
+    </div>
     <div class="sidebar-about">
-      <h1>
+      <h1 class="smaller-title">
         <a href="{{ site.url }}">
           {{ site.title }}
         </a>
@@ -20,17 +23,16 @@
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" %}
+          {% if node.sidebar == true %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="https://www.instagram.com/willjejones/">Instagram</a>
-      <a class="sidebar-nav-item" href="https://soundcloud.com/willjejones">Soundcloud</a>
+      <!-- <a class="sidebar-nav-item" href="https://soundcloud.com/willjejones">Soundcloud</a> -->
       <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.author.name}} {{ site.time | date: '%Y' }}.  All rights reserved.</p>
   </div>
 </div>

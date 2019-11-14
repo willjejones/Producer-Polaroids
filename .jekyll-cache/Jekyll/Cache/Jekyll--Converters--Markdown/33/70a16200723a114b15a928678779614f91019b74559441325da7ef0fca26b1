@@ -1,0 +1,13 @@
+I"<div class="row">
+    <div class="column">
+        OK, here's why.
+    </div>
+    <div class="column">
+        <img src="http://localhost:4000/public/assets/Maggknits_Square.png" style="width: 100%" alt="Puppet" />
+    </div>
+</div>
+
+<!--more-->
+
+<p>Here.</p>
+:ET
