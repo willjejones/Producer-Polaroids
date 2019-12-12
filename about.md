@@ -4,9 +4,9 @@ title: About
 ---
 
 <p class="message">
-I’ve wanted to release a (fairly amateur and hobbyist) EP/LP for the last 5 years or so, and over that time I have created over 100 track ideas but never once felt they were finished and therefore ready to share with the world.
-
-So really, the sole objective of this project is to defeat the perfectionist within me. I have a real issue with finishing work that isn’t the highest quality output that I think I can produce. I finish very little and release even less. I think spending an afternoon/evening on a track and just releasing the idea and letting go will help in combatting my issues.
-
-Thus, this project was born!
+This is a place for me to store snapshots of the random assortment of creative personal projects that I get up to in my spare time, (presented in a blog style format).
+<br>
+<br> Each post is a 'polaroid' that records the project, whether it's a short poem or the breakdown of a personal programming challenge I attempted. It's really just a way for me to document all of the ideas and work I do as a hobbyist producer and maker.
+<br>
+<br> All the views and opinions expressed in this site are my own!
 </p>
