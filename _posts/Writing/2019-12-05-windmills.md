@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Windmills"
-date:   2019-12-05 23:03:00
+title: "Windmills"
+date: 2019-12-05 23:03:00
 categories: [writing]
 excerpt_separator: <!--more-->
 ---
@@ -10,7 +10,7 @@ Here's a little excerpt from the novel that I'm (slowly!) working on - a short d
 
 <div class="message" style="width: 75%; margin: auto;">
 
-<p class="book-paragraph">
+<p class="book-paragraph" style="text-indent: 0px!important">
 The road through the mountains crossed over a tired, long-since dried river bed, and further ahead on the horizon, a row of wind turbines stood as silhouettes against a hazy sky.
 </p>
 
