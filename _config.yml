@@ -1,18 +1,18 @@
 # Dependencies
-highlighter:      rouge
+highlighter: rouge
 
 permalink: /:categories/:title/
 
 # Setup
-title:            Producer Polaroids
-tagline:          ''
-description:      'A place to store the snapshots of my personal creative projects.'
-url:              https://producerpolaroids.com
-baseurl:          /
+title: Producer Polaroids
+tagline: ""
+description: "A place to store the snapshots of my personal creative projects."
+url: https://blog.willjejones.com
+baseurl: /
 
 author:
-  name:           'Will Jones'
-  url:            https://github.com/willjejones
+  name: "Will Jones"
+  url: https://github.com/willjejones
 
 # Excerpt
 excerpt_separator: <!--more-->
@@ -20,10 +20,10 @@ excerpt_separator: <!--more-->
 paginate: 5
 
 # Custom vars
-version:          1.0.0
+version: 1.0.0
 
 github:
-  repo:           https://github.com/willjejones/final-year-project
+  repo: https://github.com/willjejones/final-year-project
 
 # Google Analytics
 google_analytics: UA-134868497-1
