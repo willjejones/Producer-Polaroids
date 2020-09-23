@@ -1,7 +1,11 @@
 <div class="sidebar">
   <div class="container sidebar-sticky" style="top: 1rem!important;">
     <div>
-        <img class="sidebar-image" src="{{ site.url }}/public/assets/wbcrosshatch.png" alt="Will's Face">
+      <img
+        class="sidebar-image"
+        src="{{ site.url }}/public/assets/wbcrosshatch.png"
+        alt="Will's Face"
+      />
     </div>
     <div class="sidebar-about">
       <h1 class="smaller-title">
@@ -13,26 +17,34 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Home</a>
+      <a
+        class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
+        href="{{ site.url }}"
+        >Home</a
+      >
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+      {% comment %} The code below dynamically generates a sidebar nav of pages
+      with `layout: page` in the front-matter. See readme for usage. {%
+      endcomment %} {% assign pages_list = site.pages %} {% for node in
+      pages_list %} {% if node.title != null %} {% if node.sidebar == true %}
+      <a
+        class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+        href="{{ node.url }}"
+        >{{ node.title }}</a
+      >
+      {% endif %} {% endif %} {% endfor %}
 
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.sidebar == true %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+      <a class="sidebar-nav-item" href="https://willjejones.com"
+        >willjejones.com</a
+      >
 
       <!-- <a class="sidebar-nav-item" href="https://soundcloud.com/willjejones">Soundcloud</a> -->
       <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
     </nav>
 
-    <p>&copy; {{ site.author.name}} {{ site.time | date: '%Y' }}.  All rights reserved.</p>
+    <p>
+      &copy; {{ site.author.name}} {{ site.time | date: '%Y' }}. All rights
+      reserved.
+    </p>
   </div>
 </div>
