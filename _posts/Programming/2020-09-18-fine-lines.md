@@ -19,4 +19,10 @@ Above is the result of my experimentations: self-portraits created from an almos
 There's no genetic algorithm this time, instead, the code takes the input image and views
 it as a series of brightness values. It iteratively creates pseudo-random groups of "hand-drawn" lines, comparing the in-progress line sketch with the original image at every step. If a particular region matches its light/dark values, there's no need to draw more lines - its representation of the original image is close enough.
 
+Below are some interesting outputs I achieved on a test image during the development, and before I'd created and refined the method above:
+
+<div class="row">
+        <img src="{{ site.url }}/public/assets/generative_art/pearl_crosshatch.png" style="width: 100%" alt="Generative Crosshatch">
+</div>
+
 The end outcome is really interesting! The line density and therefore general shading is enough to imply the subject, and whilst abstract, still appear recognisable.

@@ -22,11 +22,11 @@ I glanced at Ana, who’s focussed eyes and furrowed brow had taught me that a d
 ​​“I think when I’m gone I’d like one of those small, toy windmills on my grave.” She spoke softly, her eyes fixated on the distant wind farm.
 </p>
 
+<!--more-->
+
 <p class="book-paragraph">
 “Our lives might have an expiry, but those little blades will keep turning, just as life continues to spin on after we’re gone.”
 </p>
-
-<!--more-->
 
 <p class="book-paragraph">
 ​​She broke from her stare and turned to see the wry smile on my face.
