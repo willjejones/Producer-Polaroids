@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Beating Perfectionism with Life Drawing"
-date:   2019-09-29 22:34:00
+title: "Beating Perfectionism with Life Drawing"
+date: 2019-09-29 22:34:00
 categories: [art]
 excerpt_separator: <!--more-->
 ---
@@ -10,10 +10,10 @@ I went life drawing for only the second time ever yesterday, and I think I might
 
 <div class="row">
     <div class="column">
-        <img src="{{ site.url }}/public/assets/life_drawing/life2.JPG" style="width: 100%" alt="Puppet">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/life_drawing/life2.JPG" style="width: 100%" alt="Puppet">
     </div>
     <div class="column">
-        <img src="{{ site.url }}/public/assets/life_drawing/life.png" style="width: 100%" alt="Puppet">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/life_drawing/life.png" style="width: 100%" alt="Puppet">
     </div>
 </div>
 

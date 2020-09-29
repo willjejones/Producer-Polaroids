@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Remaking Patrick Watson's Dream for Dreaming"
-date:   2019-09-18 08:17:00
+title: "Remaking Patrick Watson's Dream for Dreaming"
+date: 2019-09-18 08:17:00
 categories: [music, video]
 excerpt_separator: <!--more-->
 ---
@@ -10,7 +10,6 @@ Myself and best friend/frequent creative collaborator of mine, James, set oursel
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/h9tR-lumxR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 <!--more-->
 <br>
 
@@ -18,10 +17,10 @@ Since this was a small weekend project for our own entertainment, we decided to 
 
 <div class="row">
     <div class="column">
-        <img src="{{ site.url }}/public/assets/puppets/puppet.png" style="width: 100%" alt="Puppet">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/puppets/puppet.png" style="width: 100%" alt="Puppet">
     </div>
     <div class="column">
-        <img src="{{ site.url }}/public/assets/puppets/puppet2.png" style="width: 100%" alt="Puppet">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/puppets/puppet2.png" style="width: 100%" alt="Puppet">
     </div>
 </div>
 

@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 I've loved genetic algorithms ever since first exploring them during my degree; the idea of allowing a population to "evolve" until they produce a suitable solution is something that fascinates me. But until now, all of my existing genetic applications had been to solve more mathematical, academic problems - I wanted to apply the principle to art.
 
 <div class="row">
-    <img src="{{ site.url }}/public/assets/generative_art/perl_earrings.png" style="width: 100%" alt="Genetic Art">
+    <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/generative_art/perl_earrings.png" style="width: 100%" alt="Genetic Art">
 </div>
 
 <!--more-->
@@ -24,10 +24,10 @@ A fitness function was required to decide which children to keep at each iterati
 
 <div class="row">
     <div class="column">
-        <img src="{{ site.url }}/public/assets/generative_art/mona.jpg" style="width: 100%" alt="Genetic Art">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/generative_art/mona.jpg" style="width: 100%" alt="Genetic Art">
     </div>
     <div class="column">
-        <img src="{{ site.url }}/public/assets/generative_art/genetic.gif" style="width: 100%" alt="Genetic Art">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/generative_art/genetic.gif" style="width: 100%" alt="Genetic Art">
     </div>
 </div>
 

@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 I love the idea of using simplicity to hint at complexity, particularly using combinations of primitive shapes to imply greater detail. Previously, I attempted to use generative algorithms to recreate existing artwork with triangles. Impressed with the results, I decided to take this one step further, and reproduce images with something even more primitive - lines.
 
 <div class="row">
-        <img src="{{ site.url }}/public/assets/generative_art/crosshatch_both.png" style="width: 100%" alt="Generative Crosshatch">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/generative_art/crosshatch_both.png" style="width: 100%" alt="Generative Crosshatch">
 </div>
 
 <!--more-->
@@ -22,7 +22,7 @@ it as a series of brightness values. It iteratively creates pseudo-random groups
 Below are some interesting outputs I achieved on a test image during the development, and before I'd created and refined the method above:
 
 <div class="row">
-        <img src="{{ site.url }}/public/assets/generative_art/pearl_crosshatch.png" style="width: 100%" alt="Generative Crosshatch">
+        <img src="https://s3-eu-west-1.amazonaws.com/willjejones.com/images/generative_art/pearl_crosshatch.png" style="width: 100%" alt="Generative Crosshatch">
 </div>
 
 The end outcome is really interesting! The line density and therefore general shading is enough to imply the subject, and whilst abstract, still appear recognisable.
