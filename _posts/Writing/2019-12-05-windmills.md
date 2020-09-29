@@ -15,7 +15,7 @@ The road through the mountains crossed over a tired, long-since dried river bed,
 </p>
 
 <p class="book-paragraph">
-I glanced at Ana, who’s focussed eyes and furrowed brow had taught me that a deep and rhetorical thought was imminent.
+I glanced at Ana, whose focussed eyes and furrowed brow had taught me that a deep and rhetorical thought was imminent.
 </p>
 
 <p class="book-paragraph">
